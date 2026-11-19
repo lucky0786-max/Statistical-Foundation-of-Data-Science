@@ -1,19 +1,29 @@
-Aim
+## Aim
 
-To understand the basics of Pandas and NumPy and perform different matrix operations using Python.
-What I Did
+To analyze the TeachingRatings dataset of professors using Python and
+study student numbers, descriptive statistics, beauty scores, gender
+differences, and tenure status.
 
-Imported Pandas and NumPy libraries.
+## What I Did
 
-Loaded and explored the CSV dataset.
+-   Loaded the dataset using Pandas and checked its rows, columns, and
+    data types.
+-   Identified the dataset as cross-sectional data.
+-   Calculated the mean, median, minimum, and maximum number of
+    students.
+-   Generated a descriptive statistics table for age, beauty,
+    evaluation, students, and allstudents.
+-   Created a histogram to examine the distribution of professors'
+    beauty scores.
+-   Calculated the mean and standard deviation of beauty scores for each
+    gender.
+-   Calculated the overall percentage distribution of tenure status.
 
-Checked data types and dataset information.
+## Conclusion
 
-Converted dataset into a NumPy array.
-
-Found shape, size, and dimensions of the array.
-
-Performed matrix addition, subtraction, multiplication, division, transpose, and dot product.
-Conclusion
-
-In this practical, I learned how to use Pandas and NumPy for data handling and numerical calculations. I also understood basic NumPy array properties and matrix operations.
+The practical used Python libraries such as Pandas, NumPy, Matplotlib,
+and Seaborn to explore and summarize the TeachingRatings dataset. It
+helped practice descriptive statistics, data visualization, and grouping
+data by gender. The current code calculates overall tenure percentages;
+it does not yet calculate tenure percentages separately for male and
+female professors.
