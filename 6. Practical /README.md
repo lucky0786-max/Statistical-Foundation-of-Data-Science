@@ -26,6 +26,7 @@ SciPy:To perform statistical tests.
 | Pearson Correlation | 0.000 | Weak positive correlation |
 
  **Conclusion**
+ 
 In this practical, I performed four statistical tests using Python. The T-test showed a significant difference in 
 teaching evaluations between male and female teachers. ANOVA showed differences in beauty scores among age groups. 
 The Chi-square test found no significant association between gender and tenure. Pearson correlation showed a weak 
