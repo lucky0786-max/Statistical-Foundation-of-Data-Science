@@ -1,4 +1,5 @@
-*** Aim***
+***Aim***
+
 To analyse the TeachingRatings dataset and study the relationship between professors' age, gender, tenure, course division and teaching evaluation scores using Python.
 
 ***What I Did***
