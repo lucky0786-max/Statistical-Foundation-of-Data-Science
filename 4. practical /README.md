@@ -11,4 +11,5 @@ To analyse the TeachingRatings dataset and study the relationship between profes
 6. Created a scatter plot showing the relationship between age, evaluation, gender and tenure.
 
 ***Conclusion***
+
 In this practical, I performed data cleaning and exploratory data analysis using Pandas, Matplotlib and Seaborn. I found that lower-division courses had slightly higher average evaluations than upper-division courses. The scatter plots showed no strong relationship between professors' age and teaching evaluation scores.
